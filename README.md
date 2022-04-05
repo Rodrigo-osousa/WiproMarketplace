@@ -1,6 +1,17 @@
 # Wipro Marketplace
-<p>Este projeto foi desenvolvido afim de estudos básicos da linguagem Java.</p>
+<p>Este projeto foi desenvolvido afim de estudos básicos da linguagem Java em equipe.</p>
 
+<p>==========================================================</p>
+
+<p>Equipe 1</p>
+
+<p>Israel Lima Dias</p>
+<p>Rodrigo Oliveira Sousa</p>
+<p>Bruno Silva</p>
+<p>Alejandro Yujra Espejo</p>
+<p>Ilessa Lobo</p>
+
+<p>==========================================================</p>
 
 <p>Na Wipro Marketplace podemos simular a experiência de compar produtos pré-definidos:</p>
 
@@ -42,3 +53,5 @@ while (quantityOfProducties > quantity[productCode - 1]) {
 **Considerações Finais:**
 
 <p> A proposta foi aplicar apenas o básico do Java em equipe, sendo assim não se utiliza conceitos de microservices, framework, etc...</p>
+<p> Decidimos que cada um desenvolveria um projeto e se algém tivesse dúvidas iriamos resolver juntos, no final todos nós
+tinhamos um projeto diferente que executa basicamente a mesma coisa, porém todos funcionais e também compartilhamos experiência.</p>
