@@ -27,7 +27,7 @@ while (quantityOfProducties > quantity[productCode - 1]) {
 
 ![Screenshot_2](https://user-images.githubusercontent.com/79177544/161742279-e7d93b28-8201-4a61-ac43-8073468785be.png)
 
-<p> Agora com  o carrinho cheio podemos revisar nosso carrinho e o total de todos os produtos:</p>
+<p> Agora com  o carrinho cheio podemos revisar nossos itens e o total de todos os produtos:</p>
 
 ![Screenshot_6](https://user-images.githubusercontent.com/79177544/161742014-af2439c4-1a7a-4af2-9254-aed9bc117df0.png)
 
